@@ -1,0 +1,132 @@
+/* CSS Document */
+body{
+	margin: 0;
+	padding: 0;
+	background-image: "images/fondo.png";
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a{
+	display: inline-block;
+	background-color: blue;
+	color: white;
+	text-decoration: none;
+	border: 1px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #333;
+   -webkit-box-shadow: 3px 3px 3px #333;
+   -moz-box-shadow: 3px 3px 3px #333;
+   margin: 10px;
+   width: 100px;
+}
+
+.paginacion{
+	display: inline-block;
+	background-color: blue;
+	color: white;
+	text-decoration: none;
+	border: 1px;
+	border-radius: 25px;
+	box-shadow: 3px 3px 3px #333;
+   -webkit-box-shadow: 3px 3px 3px #333;
+   -moz-box-shadow: 3px 3px 3px #333;
+   margin: 5px;
+   width: 25px;
+}
+
+.tablaForm{
+	margin: auto;
+	width: 50%;
+	text-align: left;
+}
+
+.tableList{
+	margin: auto;
+	width: 95%;
+	border: 3px solid;
+	border-radius: 5px;
+}
+.tableList td{
+	border: 1px solid;
+	border-radius: 5px;
+}
+.tableList tr:hover{
+	background-color: black;
+	color: white;
+}
+
+#contenedorIndex{
+	width: 300px;
+	margin: auto;
+	margin-top: 200px;
+	border: 1px solid;
+	border-radius: 10px;
+	text-align: center;
+	box-shadow: 0px 0px 10px #333;
+   -webkit-box-shadow: 0px 0px 10px #333;
+   -moz-box-shadow: 0px 0px 10px #333;
+}
+
+#contenedor{
+	width: 900px;
+	margin: auto;
+	margin-top: 200px;
+	border: 1px solid;
+	border-radius: 10px;
+	text-align: center;
+	box-shadow: 0px 0px 10px #333;
+   -webkit-box-shadow: 0px 0px 10px #333;
+   -moz-box-shadow: 0px 0px 10px #333;
+}
+
+.inputText{
+	width: 150px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #333;
+   -webkit-box-shadow: 3px 3px 3px #333;
+   -moz-box-shadow: 3px 3px 3px #333;
+}
+
+.btnEliminar{
+	background-color: red;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	border: 1px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #333;
+   -webkit-box-shadow: 3px 3px 3px #333;
+   -moz-box-shadow: 3px 3px 3px #333;
+   margin: 10px;
+   width: 100px;
+}
+.btnGuardar{
+	background-color: blue;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	border: 1px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #333;
+   -webkit-box-shadow: 3px 3px 3px #333;
+   -moz-box-shadow: 3px 3px 3px #333;
+   margin: 10px;
+   width: 100px;
+}
+.btnConectar{
+	background-color: green;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	border: 1px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #333;
+   -webkit-box-shadow: 3px 3px 3px #333;
+   -moz-box-shadow: 3px 3px 3px #333;
+   margin: 10px;
+   width: 100px;
+}
+
+
+
+
